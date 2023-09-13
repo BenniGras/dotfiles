@@ -1,2 +1,2 @@
 sudo add-apt-repository ppa:aslatter/ppa -y
-sudo apt install allacrity
+sudo apt install alacrtity
