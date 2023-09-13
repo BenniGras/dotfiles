@@ -1,1 +1,1 @@
-apt install neovim
+snap install nvim --classic
