@@ -1,2 +1,2 @@
 apt install zsh
-#chsh -s /usr/bin/zsh $echo whoami
+#chsh -s $(which zsh)
